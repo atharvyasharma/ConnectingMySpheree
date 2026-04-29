@@ -4,7 +4,6 @@ It is a full-stack social media platform for user interaction and content sharin
 ## Key Features:
 - User registration, login, and Google authentication. Upload and interact with various content types, customize profiles.
 - Modern libraries and tools like Tailwind CSS, Redux, Material UI, and Formik for seamless UI/UX.
-- Deployed media uploads on cloud using Cloudinary and frontend on Vercel and tested by 10+ people.
 - Used Spring Security to secure user data using JWT and Postman for documenting 15+ APIs.
 ## Technology Used: 
 - Frontend- ReactJs, TailwindCSS, Material UI, Redux
@@ -15,6 +14,7 @@ It is a full-stack social media platform for user interaction and content sharin
 ##  Register
 <img width="1920" height="1017" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/3c583d68-5a23-48b9-8cce-12fdfeda713c" />
 ## Login
+
 <img width="1920" height="1017" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/8e0ab400-8e58-4a3b-b40c-80c5605c3de9" />
 ## Home
 <img width="1920" height="1017" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/4dcb62c5-858e-4465-b5a5-c74cc20c3e09" />
