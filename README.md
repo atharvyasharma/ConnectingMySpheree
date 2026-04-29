@@ -9,7 +9,7 @@ It is a full-stack social media platform for user interaction and content sharin
 ## Technology Used: 
 - Frontend- ReactJs, TailwindCSS, Material UI, Redux
 - Backend- Spring Boot, Spring Data JPA( Hibernate), Spring Security
-- Databse- MySQL.
+- Database- MySQL.
 
 # Project
 ##  Register
